@@ -1,0 +1,1 @@
+var json_Geophone_1 = {"type":"FeatureCollection","name":"Geophone_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[76.490138959827377,9.092582667802489]}}]}
